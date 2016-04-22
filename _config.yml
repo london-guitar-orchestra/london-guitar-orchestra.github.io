@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: The London Guitar Orchestra
 locale: en_GB
-description: The London Guitar Orchestra
+description: Amateur classical guitarists who play together in London 
 logo: site-logo.png
 search: true
 url: https://london-guitar-orchestra.github.io
